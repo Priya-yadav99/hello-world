@@ -1,2 +1,2 @@
 # hello-world
-just creating a new repository
+After creating branch I am trying to commit
